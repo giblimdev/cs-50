@@ -30,6 +30,9 @@ export default function Header() {
         <Link href="/dashboard" className="hover:underline">
           Dashboard
         </Link>
+        <Link href="/blog/create" className="hover:underline">
+          New post
+        </Link>
       </nav>
 
       <div className="flex items-center space-x-4">
