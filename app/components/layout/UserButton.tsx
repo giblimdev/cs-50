@@ -67,7 +67,7 @@ export default function UserButton() {
             {user?.name || "Utilisateur"}
           </div>
           <Link
-            href="/profile"
+            href="/profil"
             className="block px-4 py-2 text-sm text-gray-700 hover:bg-gray-100"
             onClick={() => setIsOpen(false)}
           >

@@ -1,7 +1,7 @@
 import React from "react";
 
 function page() {
-  return <div>users page</div>;
+  return <div>Crud Categories</div>;
 }
 
 export default page;
