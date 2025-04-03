@@ -27,6 +27,9 @@ export default function Header() {
         <Link href="/" className="hover:underline">
           Accueil
         </Link>
+        <Link href="/dev" className="hover:underline">
+          Dev
+        </Link>
         <Link href="/dashboard" className="hover:underline">
           Dashboard
         </Link>
